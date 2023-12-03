@@ -1,0 +1,15 @@
+.container {
+    background-color: rgb(164, 163, 163);
+    height: 100%;
+    width: 100%;
+  }
+  .del {
+    position: relative;
+    left: 900px;
+    bottom: 60px;
+  }
+  .edit {
+    position: relative;
+    left: 920px;
+    bottom: 60px;
+  }
